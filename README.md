@@ -21,6 +21,13 @@ Objetivo General
 
 
 # 3. Explicación y Resolución
+25. Vea los circuitos de la figura 5-68:
+
+a. Encuentre los valores de los resistores desconocidos.
+
+b. Calcule el voltaje en cada resistor.
+
+c. Determine la potencia disipada por cada resistor.
 
 # 4. Video
 
