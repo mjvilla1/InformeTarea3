@@ -43,7 +43,8 @@ Capitulo 5
 ![](https://github.com/mjvilla1/ImagenesTarea3/blob/main/Ejercicio%2015.PNG)
 ![](https://github.com/mjvilla1/ImagenesTarea3/blob/main/Ejercicio17.PNG)
 ![](https://github.com/mjvilla1/ImagenesTarea3/blob/main/Ejercicio%2020.PNG)
-
+![](https://github.com/mjvilla1/ImagenesTarea3/blob/main/Ejercicio%2022.PNG)
+![](https://github.com/mjvilla1/ImagenesTarea3/blob/main/Ejercicio%2024.PNG)
 
 25. Vea los circuitos de la figura 5-68:
 
