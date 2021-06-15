@@ -107,8 +107,11 @@ Capitulo 6
 ![](https://github.com/mjvilla1/ImagenesTarea3/blob/main/Ejercicio%2020_6.PNG)
 ![](https://github.com/mjvilla1/ImagenesTarea3/blob/main/Ejercicio%2022_6.PNG)
 ![](https://github.com/mjvilla1/ImagenesTarea3/blob/main/Ejercicio%2024_6.PNG)
+
 ![](https://github.com/mjvilla1/ImagenesTarea3/blob/main/Ejercicio28_6.PNG)
+
 ![](https://github.com/mjvilla1/ImagenesTarea3/blob/main/Ejercicio30_6.PNG)
+
 ![](https://github.com/mjvilla1/ImagenesTarea3/blob/main/Ejercicio32_6.PNG)
 
 33. Utilice la regla del divisor de corriente para determinar las resistencias desconocidas en la red de la figura 6-75.
