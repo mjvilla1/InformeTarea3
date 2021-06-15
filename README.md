@@ -165,13 +165,13 @@ b. Calcule el efecto de carga del voltímetro cuando se usa para medir el voltaj
 
 # 5. Conclusiones
 
-- En  estetrabajo  hemos tratado   de   analizar los  conceptos  de   lo   que   significacircuito eléctrico, 
+- En  este trabajo  hemos tratado   de   analizar los  conceptos  de   lo   que   significa circuito eléctrico, 
 sobre cómo funciona este y cada una de sus partes.
 
 - Logramos entender y aprender la importancia y el cuidado de este e identificar cada una de
 sus partes y como se produce un circuito.
 
-- Afianzamos los conceptos, diferenciando lasvariables entre un valor teórico y un valor practico.
+- Afianzamos los conceptos, diferenciando las variables entre un valor teórico y un valor práctico.
 
 # 6. Bibliografia 
 
