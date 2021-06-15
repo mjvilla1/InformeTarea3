@@ -30,9 +30,9 @@ Objetivo General
 - En  estetrabajo  hemos tratado   de   analizar los  conceptos  de   lo   que   significacircuito eléctrico, 
 sobre cómo funciona este y cada una de sus partes.
 
--Logramos entender y aprender la importancia y el cuidado de este e identificar cada una de
+- Logramos entender y aprender la importancia y el cuidado de este e identificar cada una de
 sus partes y como se produce un circuito.
 
--Afianzamos los conceptos, diferenciando lasvariables entre un valor teórico y un valor practico.
+- Afianzamos los conceptos, diferenciando lasvariables entre un valor teórico y un valor practico.
 
 # 6. Bibliografia 
