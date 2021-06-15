@@ -1,11 +1,13 @@
 # InformeTarea3
 
+Integrantes : César Garnica - Jonathan Insuasti - Melany Villa 
+
 # 1.Objetivos
 
 
 Objetivo General 
 
-
+  Analizar e identificar los tipos de circuitos y sus formas de utilizar los metodos adecuados a momento de realizar la resolución de circuitos serie o circuitos paralelo mediantes el analisis de estudiar en estos capitulos para aplicar el conocieminto adquirido en los capitulos 5 y 6 .
 
   
     Objetivos Específicos
