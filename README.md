@@ -14,7 +14,7 @@ Objetivo General
      - Interpretar los datos  utilizando dos variables para despejar  la faltante.
      - Calcular y medir resistencias equivalentes para arreglos de resistencias en serie.
      - Entender y aprender los puntos más importantes del circuito eléctrico.
-     -Entender como se realizan los calculos e implementación de la ley de ohm en circuitos en paralelo
+     - Entender como se realizan los calculos e implementación de la ley de ohm en circuitos en paralelo
      - Analizar la forma de composicion de los circuitos en paralelo.
      - Realizar calculos de resistencias, intensidades y voltajes, en circuito serie y paralelo.
 
@@ -38,6 +38,12 @@ Capitulo 5
 ![](https://github.com/mjvilla1/ImagenesTarea3/blob/main/Ejercicio%209%20Capitulo%205.PNG)
 
 ![](https://github.com/mjvilla1/ImagenesTarea3/blob/main/Ejercicio%2011%20Capitulo%205.PNG)
+
+![](https://github.com/mjvilla1/ImagenesTarea3/blob/main/Ejercicio%2013.PNG)
+![](https://github.com/mjvilla1/ImagenesTarea3/blob/main/Ejercicio%2015.PNG)
+![](https://github.com/mjvilla1/ImagenesTarea3/blob/main/Ejercicio17.PNG)
+![](https://github.com/mjvilla1/ImagenesTarea3/blob/main/Ejercicio%2020.PNG)
+
 
 25. Vea los circuitos de la figura 5-68:
 
