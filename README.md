@@ -25,6 +25,16 @@ Objetivo General
 
 Capitulo 5
 
+![](https://github.com/mjvilla1/ImagenesTarea3/blob/main/Ejercicio%201%20Capitulo%205.PNG)
+
+![](https://github.com/mjvilla1/ImagenesTarea3/blob/main/Ejercicio%203%20Capitulo%205.PNG)
+
+![](https://github.com/mjvilla1/ImagenesTarea3/blob/main/Ejercicio%205%20y%207%20Capitulo%205.PNG)
+
+![](https://github.com/mjvilla1/ImagenesTarea3/blob/main/Ejercicio%209%20Capitulo%205.PNG)
+
+![](https://github.com/mjvilla1/ImagenesTarea3/blob/main/Ejercicio%2011%20Capitulo%205.PNG)
+
 25. Vea los circuitos de la figura 5-68:
 
 ![](https://github.com/mjvilla1/ImagenesTarea3/blob/main/figura%205-68.jpeg)
@@ -152,3 +162,5 @@ sus partes y como se produce un circuito.
 - Afianzamos los conceptos, diferenciando lasvariables entre un valor teórico y un valor practico.
 
 # 6. Bibliografia 
+
+Robbins, A. H. (2008). Análisis de Circuitos Teoria y Practica. Santa Fe-Mexico: Cengage Learning.
