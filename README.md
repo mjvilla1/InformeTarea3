@@ -14,7 +14,9 @@ Objetivo General
      - Interpretar los datos  utilizando dos variables para despejar  la faltante.
      - Calcular y medir resistencias equivalentes para arreglos de resistencias en serie.
      - Entender y aprender los puntos más importantes del circuito eléctrico.
-
+     -Entender como se realizan los calculos e implementación de la ley de ohm en circuitos en paralelo
+     - Analizar la forma de composicion de los circuitos en paralelo.
+     - Realizar calculos de resistencias, intensidades y voltajes, en circuito serie y paralelo.
 
 
 
@@ -172,6 +174,11 @@ sobre cómo funciona este y cada una de sus partes.
 sus partes y como se produce un circuito.
 
 - Afianzamos los conceptos, diferenciando las variables entre un valor teórico y un valor práctico.
+
+- Comprendimos que los valores de resistencias, intensidades y voltajes varian dependiendo el circuito.
+
+- Logramos identificar de manera analitica como se calculan los elementos en cada tipo de circuito.
+ 
 
 # 6. Bibliografia 
 
