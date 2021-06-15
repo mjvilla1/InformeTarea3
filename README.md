@@ -170,6 +170,7 @@ b. Calcule el efecto de carga del voltímetro cuando se usa para medir el voltaj
 
 # 4. Video
 
+https://youtu.be/GtGjJJkf2Pg
 
 # 5. Conclusiones
 
