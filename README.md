@@ -81,6 +81,16 @@ medir la corriente en los circuitos, determine la corriente a través de él y c
 
 Capitulo 6
 
+![](https://github.com/mjvilla1/ImagenesTarea3/blob/main/Ejercicio%201%20Capitulo%206.PNG)
+
+![](https://github.com/mjvilla1/ImagenesTarea3/blob/main/Ejercicio%201---%20Capitulo%206.PNG)
+
+![](https://github.com/mjvilla1/ImagenesTarea3/blob/main/Ejercicio%203%20Capitulo%206.PNG)
+
+![](https://github.com/mjvilla1/ImagenesTarea3/blob/main/Ejercicio%205%20Capitulo%206.PNG)
+
+![](https://github.com/mjvilla1/ImagenesTarea3/blob/main/Ejercicio%207%20%20Capitulo%206.PNG)
+
 33. Utilice la regla del divisor de corriente para determinar las resistencias desconocidas en la red de la figura 6-75.
 
 ![](https://github.com/mjvilla1/ImagenesTarea3/blob/main/Figura%206-75.jpeg)
