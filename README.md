@@ -1,28 +1,31 @@
 # InformeTarea3
 
-#1.Objetivos
+# 1.Objetivos
+
 
 Objetivo General 
 
 
 
+  
+    Objetivos Específicos
+     - Interpretar los datos  utilizando dos variables para despejar  la faltante.
+     - Calcular y medir resistencias equivalentes para arreglos de resistencias en serie.
+     - Entender y aprender los puntos más importantes del circuito eléctrico.
 
-Objetivos  Específicos 
 
-- Interpretas los datos  utilizando dos variables para despejar  la faltante.
-- Calcular y medir resistencias equivalentes para arreglos de resistencias en serie.
-- Entender y aprender los puntos más importantes del circuito eléctrico.
 
-#2. Marco Teórico
+
+# 2. Marco Teórico
 
 
 
 # 3. Explicación y Resolución
 
-#4. Video
+# 4. Video
 
 
-#5. Conclusiones
+# 5. Conclusiones
 
 - En  estetrabajo  hemos tratado   de   analizar los  conceptos  de   lo   que   significacircuito eléctrico, 
 sobre cómo funciona este y cada una de sus partes.
