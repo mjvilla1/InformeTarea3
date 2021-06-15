@@ -18,6 +18,7 @@ Objetivo General
 
 # 2. Marco Teórico
 
+![](https://github.com/mjvilla1/ImagenesTarea3/blob/main/Circuitos%20en%20paralelos.png)
 
 
 # 3. Explicación y Resolución
